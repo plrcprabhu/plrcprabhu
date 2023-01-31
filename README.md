@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @plrcprabhu
-- 👀 I’m Suffering from "Techiosity"
+- 👀 I like building things. 
 
 <!---
 plrcprabhu/plrcprabhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
